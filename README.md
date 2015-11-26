@@ -1,2 +1,2 @@
 # test_fullhouse
-チームfullhouse のgit練習用
+#チームfullhouse のgit練習用
